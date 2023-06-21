@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Visit to see output.<br>
-Open [[http://localhost:3000](https://silly-stonebraker-175b63.netlify.app/)]([http://localhost:3000](https://silly-stonebraker-175b63.netlify.app/)).
-
+Open [[https://silly-stonebraker-175b63.netlify.app/](https://silly-stonebraker-175b63.netlify.app/)].
 ## Available Scripts
 
 In the project directory, you can run:
