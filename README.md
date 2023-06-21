@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Visit to see output.<br>
+Open [[http://localhost:3000](https://silly-stonebraker-175b63.netlify.app/)]([http://localhost:3000](https://silly-stonebraker-175b63.netlify.app/)).
+
 ## Available Scripts
 
 In the project directory, you can run:
